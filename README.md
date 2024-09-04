@@ -1,17 +1,18 @@
 # Introduction
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2F9gag.com%2Fgag%2FaA1VGRR&psig=AOvVaw0KWyzDO9Io2nLK1GxWaGDW&ust=1725541284328000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIizn8asqYgDFQAAAAAdAAAAABAE
-
-
-# About Me
+## About Me
 - **Name:** Ariza Iqbal 
 - **Roll Number:** 24k-0854 
 - **Course:** BS-CS
 - **Section:** 1F
 
 
- # Skills:
+ ## Skills:
  - HTML, CSS
  - Webflow
  - Little bit of C language
+
+   
+
+![fb67r9ks3qld1](https://github.com/user-attachments/assets/644fb233-8a3c-48c3-b19b-51b9e3524c62)
 
