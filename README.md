@@ -7,10 +7,9 @@
 - **Section:** 1F
 
 
- ## Skills:
- - HTML, CSS
- - Webflow
- - Little bit of C language
+- Will be uploading assignments and labs here.
+- Enrolled in CS programme at FAST-NUCES.
+  
 
    
 
