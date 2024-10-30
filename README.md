@@ -1,6 +1,6 @@
 # Introduction
 
-## About Me
+
 - **Name:** Ariza Iqbal 
 - **Roll Number:** 24k-0854 
 - **Course:** BS-CS
