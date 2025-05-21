@@ -1,17 +1,15 @@
-# Introduction
+# 🧠 FAST-NUCES Programming Fundamentals (PF) – Lab Tasks
 
+This repository contains my lab work and assignments for the **Programming Fundamentals (PF)** course at **FAST-NUCES, Karachi Campus**. It serves as a personal learning record and a resource to review core concepts of programming using the **C language**.
 
-- **Name:** Ariza Iqbal 
-- **Roll Number:** 24k-0854 
-- **Course:** BS-CS
-- **Section:** 1F
+---
 
+## 📘 Course Overview
 
-- Will be uploading assignments and labs here.
-- Enrolled in CS programme at FAST-NUCES.
-  
+- **University**: FAST-NUCES (Karachi Campus)  
+- **Course**: Programming Fundamentals  
+- **Language Used**: C  
+- **IDE/Compiler**: Code::Blocks / Turbo C / gcc
 
-   
-
-![fb67r9ks3qld1](https://github.com/user-attachments/assets/644fb233-8a3c-48c3-b19b-51b9e3524c62)
+---
 
