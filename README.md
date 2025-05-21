@@ -9,7 +9,7 @@ This repository contains my lab work and assignments for the **Programming Funda
 - **University**: FAST-NUCES (Karachi Campus)  
 - **Course**: Programming Fundamentals  
 - **Language Used**: C  
-- **IDE/Compiler**: Code::Blocks / Turbo C / gcc
+- **IDE/Compiler**: Code::Dev C/ Visual Studio Code
 
 ---
 
